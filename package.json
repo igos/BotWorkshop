@@ -1,0 +1,24 @@
+{
+  "name": "botworkshop",
+  "version": "1.0.0",
+  "description": "BotWorkshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igos/BotWorkshop.git"
+  },
+  "author": "Igor Sawczuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igos/BotWorkshop/issues"
+  },
+  "homepage": "https://github.com/igos/BotWorkshop#readme",
+  "dependencies": {
+    "aimlinterpreter": "^0.1.7",
+    "noodlejs": "^0.3.2",
+    "slackbots": "^0.5.1"
+  }
+}
